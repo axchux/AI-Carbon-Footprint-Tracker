@@ -1,0 +1,4 @@
+activity,emission_factor
+transport_km,0.21
+electricity_kwh,0.5
+gas_usage,0.2
